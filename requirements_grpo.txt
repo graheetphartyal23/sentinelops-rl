@@ -1,0 +1,9 @@
+numpy
+openenv
+torch
+transformers
+trl
+matplotlib
+fastapi
+uvicorn
+requests

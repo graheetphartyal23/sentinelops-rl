@@ -1,0 +1,5 @@
+numpy
+openenv
+fastapi
+uvicorn
+requests

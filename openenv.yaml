@@ -1,0 +1,4 @@
+name: trustops_env
+description: Integrity-aware RL environment for enterprise workflows
+entrypoint: server/main.py
+version: 0.1.0
