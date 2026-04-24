@@ -1,0 +1,4 @@
+Model,Reward,Cheating,AvgSteps
+Random,0.0000,0.5567,6.45
+Heuristic,0.5478,0.0000,4.00
+GRPO,0.0017,0.6433,4.45

@@ -1,0 +1,11 @@
+Trajectory Comparison (Demo Artifact)
+
+BEFORE Training-like behavior (low reward=0.0000)
+decode_hint -> call_api -> decode_hint -> decode_hint -> call_api -> read -> decode_hint -> analyze -> submit ❌
+
+AFTER Training-like behavior (high reward=0.1010)
+read -> analyze -> read -> write -> call_api -> submit ✅
+
+Narrative:
+Initially, trajectories often exploit shortcuts.
+After optimization, trajectories favor structured multi-step workflows.

@@ -2,7 +2,7 @@
 
 ## Minimum Requirements
 
-- [x] OpenEnv used (latest installed release in this project)
+- [x] OpenEnv used (latest available release on PyPI at submission time: `0.1.13`)
 - [x] OpenEnv manifest present: `openenv.yaml`
 - [x] OpenEnv entrypoint server present: `server/main.py`
 - [x] Training script present with HF TRL stack: `train/run_grpo.py`, `train/grpo_training.py`
