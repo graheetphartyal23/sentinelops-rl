@@ -1,3 +1,14 @@
+---
+title: Sentinelops Rl
+emoji: 📉
+colorFrom: indigo
+colorTo: gray
+sdk: gradio
+sdk_version: 6.13.0
+app_file: app.py
+pinned: false
+---
+
 # SentinelOps-RL (OpenEnv Hackathon Submission)
 
 SentinelOps-RL is an integrity-aware reinforcement learning environment for enterprise cyber incident response.  
